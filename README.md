@@ -3,8 +3,7 @@
 
 <p align="center">
   <img src="Developer.jpg" alt="Developer Icon" width="180" style="border-radius: 12px; border: 2px solid #00F58A; box-shadow: 0 0 20px rgba(0,245,138,0.3);">
-  **Developer Byakuya**
-</p>
+</p> **Developer Byakuya**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deno-v2.0-00F58A?style=for-the-badge&logo=deno&logoColor=black" alt="Deno">

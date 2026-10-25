@@ -18,7 +18,8 @@
 
 ## 🌐 Production Live URL
 - **Live Portal:** https://line-tools-qmzy.onrender.com/
-- **Official LINE Account Tool**　<img width="207" height="212" alt="image" src="https://github.com/user-attachments/assets/a74b0355-a2a7-426d-bfbf-0e2fd22698fd" />
+- 
+- **Official LINE Account Tool**　<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a74b0355-a2a7-426d-bfbf-0e2fd22698fd" />
 
 - **Local Dev Endpoint:** `http://127.0.0.1:8000`
 

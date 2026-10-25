@@ -1,7 +1,7 @@
 # 🦊 ByakuyaTools V2 — Developer & Management Control Center
 
 <p align="center">
-  <img src="Token-Web/assets/Developer.jpg" alt="Developer Icon" width="110" style="border-radius: 12px; border: 2px solid #00F58A; vertical-align: middle; margin-right: 14px;">
+  <img src="Developer.jpg" alt="Developer Icon" width="110" style="border-radius: 12px; border: 2px solid #00F58A; vertical-align: middle; margin-right: 14px;">
   <span style="font-size: 24px; font-weight: bold; vertical-align: middle;">Developer Byakuya</span>
 </p>
 

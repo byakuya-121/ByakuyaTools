@@ -1,9 +1,8 @@
-@'
 # 🦊 ByakuyaTools V2 — Developer & Management Control Center
 
 <p align="center">
-  <img src="Developer.jpg" alt="Developer Icon" width="210" style="border-radius: 12px; border: 2px solid #00F58A; vertical-align: middle; margin-right: 14px;">
-  <span style="font-size: 22px; font-weight: bold; vertical-align: middle;">Developer Byakuya</span>
+  <img src="Token-Web/assets/Developer.jpg" alt="Developer Icon" width="110" style="border-radius: 12px; border: 2px solid #00F58A; vertical-align: middle; margin-right: 14px;">
+  <span style="font-size: 24px; font-weight: bold; vertical-align: middle;">Developer Byakuya</span>
 </p>
 
 <p align="center">
@@ -18,7 +17,7 @@
 ---
 
 ## 🌐 Production Live URL
-- **Live Portal:** [https://line-tools-qm2y.onrender.com](https://line-tools-qm2y.onrender.com)
+- **Live Portal:** https://line-tools-qmzy.onrender.com/
 - **Local Dev Endpoint:** `http://127.0.0.1:8000`
 
 ---
@@ -26,7 +25,7 @@
 ## 🔥 Key Features
 
 - ⚡ **Developer SPA Portal Dashboard**
-  - ネオングリーン×ダークテーマのハッカー風コントロール UI。
+  - ネオングリーン×ダークテーマのハッカー風コントロール UI（4色カラーテーマ切り替え対応）。
   - Welcome 画面からの滑らかなズームイン/ズームアウト遷移アニメーション & サイバータイピング演出。
 - 🔑 **AuthToken Sync Manager**
   - LINE JS 認証トークンの安全な発行、暗号化保存、ワンクリックコピー & QR コード即時生成。

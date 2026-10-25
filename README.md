@@ -1,10 +1,16 @@
 @'
 # 🦊 ByakuyaTools V2 — Developer & Management Control Center
 
-![Deno](https://img.shields.io/badge/Deno-v2.0-00F58A?style=for-the-badge&logo=deno&logoColor=black)
-![LINEJS](https://img.shields.io/badge/LINEJS-v3.4.2-00F0FF?style=for-the-badge&logo=line&logoColor=black)
-![Render](https://img.shields.io/badge/Render-Deployed-78FFC0?style=for-the-badge&logo=render&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-FFB800?style=for-the-badge)
+<p align="center">
+  <img src="Token-Web/assets/Developer.jpg" alt="Developer Icon" width="180" style="border-radius: 12px; border: 2px solid #00F58A; box-shadow: 0 0 20px rgba(0,245,138,0.3);">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deno-v2.0-00F58A?style=for-the-badge&logo=deno&logoColor=black" alt="Deno">
+  <img src="https://img.shields.io/badge/LINEJS-v3.4.2-00F0FF?style=for-the-badge&logo=line&logoColor=black" alt="LINEJS">
+  <img src="https://img.shields.io/badge/Render-Deployed-78FFC0?style=for-the-badge&logo=render&logoColor=black" alt="Render">
+  <img src="https://img.shields.io/badge/License-MIT-FFB800?style=for-the-badge" alt="License">
+</p>
 
 > **ByakuyaTools V2** は、LINE OpenChat および LINEJS 環境に特化した次世代カスタマイズ・ハッカー調開発者管理ポータル（Control Portal）です。
 

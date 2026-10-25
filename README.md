@@ -2,7 +2,7 @@
 # 🦊 ByakuyaTools V2 — Developer & Management Control Center
 
 <p align="center">
-  <img src="Developer.jpg" alt="Developer Icon" width="100" align="middle" style="border-radius: 12px; border: 2px solid #00F58A;">
+  <img src="Developer.jpg" alt="Developer Icon" width="130" align="middle" style="border-radius: 12px; border: 2px solid #00F58A;">
   <strong style="font-size: 24px;"> Developer Byakuya</strong>
 </p>
 

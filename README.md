@@ -18,6 +18,8 @@
 
 ## 🌐 Production Live URL
 - **Live Portal:** https://line-tools-qmzy.onrender.com/
+- **Official LINE Account Tool**　<img width="207" height="212" alt="image" src="https://github.com/user-attachments/assets/a74b0355-a2a7-426d-bfbf-0e2fd22698fd" />
+
 - **Local Dev Endpoint:** `http://127.0.0.1:8000`
 
 ---
@@ -61,9 +63,9 @@ deno run --allow-net --allow-env --allow-read server.ts
 
 
 👥 Community & Support
-X (Twitter): @byakuya_official
+X (Twitter): @byakuya3_deep
 
-LINE OpenChat Community: ByakuyaTools OpenChat
+LINE OpenChat Community: [https://line.me/ti/g2/FUW5HKrF_Ax2HC8EY1ZkUZlCA11BcXEs8aC8FA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default]
 
 git add README.md Token-Web/assets/Developer.jpg;
 git commit -m "Add developer icon image display to README.md";

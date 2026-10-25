@@ -13,12 +13,12 @@
   <img src="https://img.shields.io/badge/License-MIT-FFB800?style=for-the-badge" alt="License">
 </p>
 
-> **ByakuyaTools V2** は、LINE OpenChat および LINEJS 環境に特化した次世代カスタマイズ・ハッカー調開発者管理ポータル（Control Portal）です。
+> **ByakuyaTools V2** は、LINE OpenChat および LINEJS 環境に特化した次世代カスタマイズ・Heker開発者管理ポータル（Control Portal）です。
 
 ---
 
 ## 🌐 Production Live URL
-- **Live Portal:** [https://line-tools-qm2y.onrender.com](https://line-tools-qm2y.onrender.com)
+- **Live Portal:** https://line-tools-qmzy.onrender.com/
 - **Official LINE Account Tool:** [https://line.me/R/ti/p/@605labg](https://line.me/R/ti/p/@605labg)
 - **Local Dev Endpoint:** `http://127.0.0.1:8000`
 

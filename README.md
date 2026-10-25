@@ -1,8 +1,9 @@
+@'
 # 🦊 ByakuyaTools V2 — Developer & Management Control Center
 
 <p align="center">
-  <img src="Developer.jpg" alt="Developer Icon" width="110" style="border-radius: 12px; border: 2px solid #00F58A; vertical-align: middle; margin-right: 14px;">
-  <span style="font-size: 24px; font-weight: bold; vertical-align: middle;">Developer Byakuya</span>
+  <img src="Token-Web/assets/Developer.jpg" alt="Developer Icon" width="90" align="middle" style="border-radius: 12px; border: 2px solid #00F58A;">
+  <strong style="font-size: 24px;"> Developer Byakuya</strong>
 </p>
 
 <p align="center">
@@ -17,11 +18,8 @@
 ---
 
 ## 🌐 Production Live URL
-- **Live Portal:** https://line-tools-qmzy.onrender.com/
-
-- **Official LINE Account Tool🧰🔨** <img width="100" height="120" alt="image" src="https://github.com/user-attachments/assets/4e4f4a36-a113-43de-9589-c01633aa199f" />
-https://line.me/R/ti/p/@605labgl
-
+- **Live Portal:** [https://line-tools-qm2y.onrender.com](https://line-tools-qm2y.onrender.com)
+- **Official LINE Account Tool:** [https://line.me/R/ti/p/@605labg](https://line.me/R/ti/p/@605labg)
 - **Local Dev Endpoint:** `http://127.0.0.1:8000`
 
 ---

@@ -58,3 +58,13 @@ cd ByakuyaTools
 
 # 2. Run Integrated Deno Server
 deno run --allow-net --allow-env --allow-read server.ts
+
+
+👥 Community & Support
+X (Twitter): @byakuya_official
+
+LINE OpenChat Community: ByakuyaTools OpenChat
+
+git add README.md Token-Web/assets/Developer.jpg;
+git commit -m "Add developer icon image display to README.md";
+git push origin main

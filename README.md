@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/License-MIT-FFB800?style=for-the-badge" alt="License">
 </p>
 
-> **ByakuyaTools V2** は、LINE OpenChat および LINEJS 環境に特化した次世代カスタマイズ・ハッカー調開発者管理ポータル（Control Portal）です。
+> **ByakuyaTools V2** は、LINE OpenChat および LINEJS 環境に特化した次世代カスタマイズ・Hacker開発者管理ポータル（Control Portal）です。
 
 ---
 

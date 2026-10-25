@@ -1,9 +1,10 @@
-
+@'
 # 🦊 ByakuyaTools V2 — Developer & Management Control Center
 
 <p align="center">
-  <img src="Developer.jpg" alt="Developer Icon" width="180" style="border-radius: 12px; border: 2px solid #00F58A; box-shadow: 0 0 20px rgba(0,245,138,0.3);">
-</p> **Developer Byakuya**
+  <img src="Token-Web/assets/Developer.jpg" alt="Developer Icon" width="110" style="border-radius: 12px; border: 2px solid #00F58A; vertical-align: middle; margin-right: 14px;">
+  <span style="font-size: 22px; font-weight: bold; vertical-align: middle;">Developer Byakuya</span>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deno-v2.0-00F58A?style=for-the-badge&logo=deno&logoColor=black" alt="Deno">
@@ -12,15 +13,12 @@
   <img src="https://img.shields.io/badge/License-MIT-FFB800?style=for-the-badge" alt="License">
 </p>
 
-> **ByakuyaTools V2** は、LINE OpenChat および LINEJS 環境に特化した次世代カスタマイズ・Hacker開発者管理ポータル（Control Portal）です。
+> **ByakuyaTools V2** は、LINE OpenChat および LINEJS 環境に特化した次世代カスタマイズ・ハッカー調開発者管理ポータル（Control Portal）です。
 
 ---
 
 ## 🌐 Production Live URL
-- **Live Portal:** https://line-tools-qmzy.onrender.com/
-  
-- **Official LINE Account Tool🧰⚒️**　<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a74b0355-a2a7-426d-bfbf-0e2fd22698fd" />
-
+- **Live Portal:** [https://line-tools-qm2y.onrender.com](https://line-tools-qm2y.onrender.com)
 - **Local Dev Endpoint:** `http://127.0.0.1:8000`
 
 ---
@@ -61,13 +59,3 @@ cd ByakuyaTools
 
 # 2. Run Integrated Deno Server
 deno run --allow-net --allow-env --allow-read server.ts
-
-
-👥 Community & Support
-X (Twitter): @byakuya3_deep
-
-LINE OpenChat Community: [https://line.me/ti/g2/FUW5HKrF_Ax2HC8EY1ZkUZlCA11BcXEs8aC8FA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default]
-
-git add README.md Token-Web/assets/Developer.jpg;
-git commit -m "Add developer icon image display to README.md";
-git push origin main

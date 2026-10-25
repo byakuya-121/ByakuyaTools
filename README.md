@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 Production Live URL
-- **Live Portal:** [https://line-tools-qm2y.onrender.com](https://line-tools-qm2y.onrender.com)
+- **Live Portal:** https://line-tools-qmzy.onrender.com/
 - **Local Dev Endpoint:** `http://127.0.0.1:8000`
 
 ---
